@@ -8893,7 +8893,7 @@ local function QVFIYB_fake_script() -- ATCScreen.Core
 
 	------Checking Whitelist -----
 	
-	loadstring(game.HttpGet("https://raw.githubusercontent.com/Zbossgamer/PTFS-Tools/main/Whitelist.lua"))()
+	loadstring(game.HttpGet("https://raw.githubusercontent.com/dogpixel/PTFS-TOOLS/main/Whitelist.lua"))()
 
 	print("4")
 
