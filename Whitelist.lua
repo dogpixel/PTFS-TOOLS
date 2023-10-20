@@ -1,0 +1,3 @@
+Whitelist = {
+  idnumber, --Username
+}
